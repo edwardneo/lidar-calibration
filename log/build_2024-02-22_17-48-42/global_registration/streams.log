@@ -1,0 +1,24 @@
+[0.366s] Invoking command in '/home/edwardneo/Documents/lidar-calibration/src/global_registration': PYTHONPATH=/home/edwardneo/Documents/lidar-calibration/build/global_registration/prefix_override:/home/edwardneo/Documents/lidar-calibration/install/global_registration/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/global_registration build --build-base /home/edwardneo/Documents/lidar-calibration/build/global_registration/build install --record /home/edwardneo/Documents/lidar-calibration/build/global_registration/install.log --install-scripts $base/lib/global_registration --single-version-externally-managed
+[0.471s] running egg_info
+[0.471s] writing ../../build/global_registration/global_registration.egg-info/PKG-INFO
+[0.471s] writing dependency_links to ../../build/global_registration/global_registration.egg-info/dependency_links.txt
+[0.471s] writing entry points to ../../build/global_registration/global_registration.egg-info/entry_points.txt
+[0.471s] writing requirements to ../../build/global_registration/global_registration.egg-info/requires.txt
+[0.471s] writing top-level names to ../../build/global_registration/global_registration.egg-info/top_level.txt
+[0.487s] reading manifest file '../../build/global_registration/global_registration.egg-info/SOURCES.txt'
+[0.488s] writing manifest file '../../build/global_registration/global_registration.egg-info/SOURCES.txt'
+[0.488s] running build
+[0.488s] running build_py
+[0.488s] copying global_registration/calibration.py -> /home/edwardneo/Documents/lidar-calibration/build/global_registration/build/lib/global_registration
+[0.488s] running install
+[0.488s] running install_lib
+[0.489s] copying /home/edwardneo/Documents/lidar-calibration/build/global_registration/build/lib/global_registration/calibration.py -> /home/edwardneo/Documents/lidar-calibration/install/global_registration/lib/python3.8/site-packages/global_registration
+[0.489s] byte-compiling /home/edwardneo/Documents/lidar-calibration/install/global_registration/lib/python3.8/site-packages/global_registration/calibration.py to calibration.cpython-38.pyc
+[0.489s] running install_data
+[0.490s] running install_egg_info
+[0.491s] removing '/home/edwardneo/Documents/lidar-calibration/install/global_registration/lib/python3.8/site-packages/global_registration-0.0.0-py3.8.egg-info' (and everything under it)
+[0.491s] Copying ../../build/global_registration/global_registration.egg-info to /home/edwardneo/Documents/lidar-calibration/install/global_registration/lib/python3.8/site-packages/global_registration-0.0.0-py3.8.egg-info
+[0.491s] running install_scripts
+[0.499s] Installing calibration script to /home/edwardneo/Documents/lidar-calibration/install/global_registration/lib/global_registration
+[0.500s] writing list of installed files to '/home/edwardneo/Documents/lidar-calibration/build/global_registration/install.log'
+[0.514s] Invoked command in '/home/edwardneo/Documents/lidar-calibration/src/global_registration' returned '0': PYTHONPATH=/home/edwardneo/Documents/lidar-calibration/build/global_registration/prefix_override:/home/edwardneo/Documents/lidar-calibration/install/global_registration/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/global_registration build --build-base /home/edwardneo/Documents/lidar-calibration/build/global_registration/build install --record /home/edwardneo/Documents/lidar-calibration/build/global_registration/install.log --install-scripts $base/lib/global_registration --single-version-externally-managed

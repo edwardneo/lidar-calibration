@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/global_registration/global_registration.egg-info/PKG-INFO
+../../build/global_registration/global_registration.egg-info/SOURCES.txt
+../../build/global_registration/global_registration.egg-info/dependency_links.txt
+../../build/global_registration/global_registration.egg-info/entry_points.txt
+../../build/global_registration/global_registration.egg-info/requires.txt
+../../build/global_registration/global_registration.egg-info/top_level.txt
+../../build/global_registration/global_registration.egg-info/zip-safe
+global_registration/__init__.py
+global_registration/calibration.py
+resource/global_registration
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

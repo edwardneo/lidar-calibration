@@ -1,0 +1,25 @@
+running egg_info
+writing ../../build/global_registration/global_registration.egg-info/PKG-INFO
+writing dependency_links to ../../build/global_registration/global_registration.egg-info/dependency_links.txt
+writing entry points to ../../build/global_registration/global_registration.egg-info/entry_points.txt
+writing requirements to ../../build/global_registration/global_registration.egg-info/requires.txt
+writing top-level names to ../../build/global_registration/global_registration.egg-info/top_level.txt
+reading manifest file '../../build/global_registration/global_registration.egg-info/SOURCES.txt'
+writing manifest file '../../build/global_registration/global_registration.egg-info/SOURCES.txt'
+running build
+running build_py
+copying global_registration/calibration.py -> /home/edwardneo/Documents/lidar-calibration/build/global_registration/build/lib/global_registration
+copying global_registration/__init__.py -> /home/edwardneo/Documents/lidar-calibration/build/global_registration/build/lib/global_registration
+running install
+running install_lib
+copying /home/edwardneo/Documents/lidar-calibration/build/global_registration/build/lib/global_registration/calibration.py -> /home/edwardneo/Documents/lidar-calibration/install/global_registration/lib/python3.8/site-packages/global_registration
+byte-compiling /home/edwardneo/Documents/lidar-calibration/install/global_registration/lib/python3.8/site-packages/global_registration/calibration.py to calibration.cpython-38.pyc
+running install_data
+copying resource/global_registration -> /home/edwardneo/Documents/lidar-calibration/install/global_registration/share/ament_index/resource_index/packages
+copying package.xml -> /home/edwardneo/Documents/lidar-calibration/install/global_registration/share/global_registration
+running install_egg_info
+removing '/home/edwardneo/Documents/lidar-calibration/install/global_registration/lib/python3.8/site-packages/global_registration-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/global_registration/global_registration.egg-info to /home/edwardneo/Documents/lidar-calibration/install/global_registration/lib/python3.8/site-packages/global_registration-0.0.0-py3.8.egg-info
+running install_scripts
+Installing calibration script to /home/edwardneo/Documents/lidar-calibration/install/global_registration/lib/global_registration
+writing list of installed files to '/home/edwardneo/Documents/lidar-calibration/build/global_registration/install.log'

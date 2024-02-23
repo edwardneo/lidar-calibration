@@ -1,0 +1,55 @@
+[0.474s] Invoking command in '/home/edwardneo/Documents/lidar-calibration/src/global_registration': PYTHONPATH=/home/edwardneo/Documents/lidar-calibration/build/global_registration/prefix_override:/home/edwardneo/Documents/lidar-calibration/install/global_registration/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/global_registration build --build-base /home/edwardneo/Documents/lidar-calibration/build/global_registration/build install --record /home/edwardneo/Documents/lidar-calibration/build/global_registration/install.log --install-scripts $base/lib/global_registration --single-version-externally-managed
+[0.540s] /home/edwardneo/.local/lib/python3.8/site-packages/setuptools/dist.py:472: SetuptoolsDeprecationWarning: Invalid dash-separated options
+[0.540s] !!
+[0.540s] 
+[0.540s]         ********************************************************************************
+[0.540s]         Usage of dash-separated 'script-dir' will not be supported in future
+[0.540s]         versions. Please use the underscore name 'script_dir' instead.
+[0.540s] 
+[0.540s]         By 2024-Sep-26, you need to update your project and remove deprecated calls
+[0.540s]         or your builds will no longer be supported.
+[0.540s] 
+[0.540s]         See https://setuptools.pypa.io/en/latest/userguide/declarative_config.html for details.
+[0.540s]         ********************************************************************************
+[0.540s] 
+[0.540s] !!
+[0.540s]   opt = self.warn_dash_deprecation(opt, section)
+[0.586s] running egg_info
+[0.593s] writing ../../build/global_registration/global_registration.egg-info/PKG-INFO
+[0.594s] writing dependency_links to ../../build/global_registration/global_registration.egg-info/dependency_links.txt
+[0.594s] writing entry points to ../../build/global_registration/global_registration.egg-info/entry_points.txt
+[0.594s] writing requirements to ../../build/global_registration/global_registration.egg-info/requires.txt
+[0.594s] writing top-level names to ../../build/global_registration/global_registration.egg-info/top_level.txt
+[0.655s] reading manifest file '../../build/global_registration/global_registration.egg-info/SOURCES.txt'
+[0.655s] writing manifest file '../../build/global_registration/global_registration.egg-info/SOURCES.txt'
+[0.655s] running build
+[0.655s] running build_py
+[0.656s] copying global_registration/calibration.py -> /home/edwardneo/Documents/lidar-calibration/build/global_registration/build/lib/global_registration
+[0.656s] copying global_registration/__init__.py -> /home/edwardneo/Documents/lidar-calibration/build/global_registration/build/lib/global_registration
+[0.656s] running install
+[0.656s] /home/edwardneo/.local/lib/python3.8/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[0.656s] !!
+[0.656s] 
+[0.656s]         ********************************************************************************
+[0.656s]         Please avoid running ``setup.py`` directly.
+[0.656s]         Instead, use pypa/build, pypa/installer or other
+[0.656s]         standards-based tools.
+[0.656s] 
+[0.656s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[0.656s]         ********************************************************************************
+[0.656s] 
+[0.656s] !!
+[0.656s]   self.initialize_options()
+[0.658s] running install_lib
+[0.666s] copying /home/edwardneo/Documents/lidar-calibration/build/global_registration/build/lib/global_registration/calibration.py -> /home/edwardneo/Documents/lidar-calibration/install/global_registration/lib/python3.8/site-packages/global_registration
+[0.666s] byte-compiling /home/edwardneo/Documents/lidar-calibration/install/global_registration/lib/python3.8/site-packages/global_registration/calibration.py to calibration.cpython-38.pyc
+[0.667s] running install_data
+[0.674s] copying resource/global_registration -> /home/edwardneo/Documents/lidar-calibration/install/global_registration/share/ament_index/resource_index/packages
+[0.674s] copying package.xml -> /home/edwardneo/Documents/lidar-calibration/install/global_registration/share/global_registration
+[0.674s] running install_egg_info
+[0.682s] removing '/home/edwardneo/Documents/lidar-calibration/install/global_registration/lib/python3.8/site-packages/global_registration-0.0.0-py3.8.egg-info' (and everything under it)
+[0.682s] Copying ../../build/global_registration/global_registration.egg-info to /home/edwardneo/Documents/lidar-calibration/install/global_registration/lib/python3.8/site-packages/global_registration-0.0.0-py3.8.egg-info
+[0.682s] running install_scripts
+[0.706s] Installing calibration script to /home/edwardneo/Documents/lidar-calibration/install/global_registration/lib/global_registration
+[0.706s] writing list of installed files to '/home/edwardneo/Documents/lidar-calibration/build/global_registration/install.log'
+[0.720s] Invoked command in '/home/edwardneo/Documents/lidar-calibration/src/global_registration' returned '0': PYTHONPATH=/home/edwardneo/Documents/lidar-calibration/build/global_registration/prefix_override:/home/edwardneo/Documents/lidar-calibration/install/global_registration/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/global_registration build --build-base /home/edwardneo/Documents/lidar-calibration/build/global_registration/build install --record /home/edwardneo/Documents/lidar-calibration/build/global_registration/install.log --install-scripts $base/lib/global_registration --single-version-externally-managed
